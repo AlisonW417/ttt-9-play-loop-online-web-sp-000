@@ -42,4 +42,5 @@ def play(board)
     counter += 1
     turn(board)
   end
+  puts "The game is over."
 end
